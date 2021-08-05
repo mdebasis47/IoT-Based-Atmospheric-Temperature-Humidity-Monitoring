@@ -1,2 +1,4 @@
 # IoT-Based-Atmospheric-Temperature-Humidity-Monitoring
-Atmospheric Temperature &amp; Humidity Monitoring using NodeMCU and Google Firebase Cloud platform.
+Earlier when there was no development of IoT, the remote monitoring of sensor data was limited. The device used to be placed near the observer to check the data on display devices. Since the advancement of IoT, the limitations have been removed and data monitoring remotely has been possible. Not only the monitoring of data remotely but also monitoring the data on a real-time basis has become possible.
+
+So we are basically focusing on IoT Based Remote Data Monitoring System. In some of our earlier projects, we used the IoT platforms like Thingspeak, Adafruit.io & Webpage to monitor data remotely using Nodemcu ESP8266. But in this project, we will Send the Real-Time Sensor Data to Google Firebase with ESP8266 & DHT11 Humidity Temperature Sensor. The data will be read using DHT11 Sensor and sent to Google Firebase Console Database.
